@@ -58,4 +58,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/module10-fastapi-secure-user:latest
+          tags: nishitanadimpalli/module12-fastapi-backend:latest
+
